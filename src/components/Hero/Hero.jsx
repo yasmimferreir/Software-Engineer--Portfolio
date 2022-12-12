@@ -4,7 +4,6 @@ import "./Hero.css";
 import hero_image from "../../assets/projeto.png";
 import reactImg from "../../assets/react.png";
 import Node from "../../assets/nodejs-logo.png";
-import seta from "../../assets/seta.png";
 
 const Hero = () => {
   return (
@@ -15,10 +14,7 @@ const Hero = () => {
         {/* the best add */}
 
         <div className="the-best-ad">
-          <div></div>
-          <img src={seta} />
-
-          <span>Olá! Sou Yasmim Ferreira Costa</span>
+          <span>Olá Sou Yasmim Ferreira Costa</span>
         </div>
 
         {/* Hero Heading*/}
