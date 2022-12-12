@@ -1,0 +1,40 @@
+.Footer-container {
+    position: relative;
+}
+
+.Footer-container>hr {
+    border: 1px solid var(--lightgray);
+}
+
+.footer {
+    padding: 1rem 2rem;
+    display: flex;
+    flex-direction: column;
+    gap: 4rem;
+    align-items: center;
+    justify-content: center;
+    height: 20rem;
+}
+
+.social-links {
+    display: flex;
+    gap: 4rem;
+}
+
+.social-links .icons {
+    width: 2.4rem;
+    height: 2rem;
+    cursor: pointer;
+    color: white;
+    transition: all 1s;
+}
+
+.social-links .icons:hover {
+    opacity: 0.5;
+    transition: all 1s;
+}
+
+.logo-f>img {
+    width: 10rem;
+    cursor: pointer;
+}
