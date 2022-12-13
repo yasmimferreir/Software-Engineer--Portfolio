@@ -9,9 +9,9 @@ Demostração de algumas das minha habilidades, alguns dos meus projetos.
 <br>
 ###  🚀 Projeto MeuPortfólio 
 > Imagem projeto
-<img src="" width="640px" >
+<img src="https://user-images.githubusercontent.com/97356148/207417596-a3b7f635-7f50-4d1b-b20d-a64c0f2c7c72.png" width="640px" >
 <br>
-> Deploy da aplicação: 
+> Deploy da aplicação: https://app.netlify.com/sites/portf-desenvolvedoryasmimferreiracost
 <br>
 
 
