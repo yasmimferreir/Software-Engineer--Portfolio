@@ -26,7 +26,7 @@ const Reasons = () => {
               Lógica de Programação em JavaScript, tenho 1 ano que estou na
               Programação me dedicando ao máximo.
               <br />
-              Atuamente ínicio Graduação de Engenharia de Software, me
+              Atuamente início Graduação de Engenharia de Software, me
               identifico muito com a Programação, amo programar, sempre estou em
               busca de novos conhecimentos, sou persistente, determinada,
               comunicativa, gosto de resolver problemas, gosto de trabalhar em

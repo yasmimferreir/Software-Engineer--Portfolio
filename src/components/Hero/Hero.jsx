@@ -29,9 +29,9 @@ const Hero = () => {
           </div>
           <div>
             <span>
-              Desenvolvedor(a) Full Stack Júnior autodidata, que atua há mais de
-              1 ano. Cursando Desenvolvimento Full Stack no Devclub, domínio em
-              tecnologicas Front-end, Back-end, Banco de Dados
+              Desenvolvedor(a) Full Stack Júnior, que atua há mais de 1 ano.
+              Cursando Desenvolvimento Full Stack no Devclub, domínio em
+              tecnologicas Front-end, Back-end
             </span>
           </div>
         </div>
