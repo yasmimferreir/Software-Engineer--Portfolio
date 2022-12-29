@@ -2,7 +2,7 @@
 
 ### 📑Explicação
 
-****Meu Portfólio****, projeto desenvolvido com ReactJs , utilização no Front-end biblioteca ReactJs, 
+****Meu Portfólio****, projeto desenvolvido com ReactJs , utilização no Front-end biblioteca ReactJs, web responsive,
 Hooks useStates, projetado e pensado em um design diferente é autêntico.
 Demostração de algumas das minha habilidades, alguns dos meus projetos.
 <br>
@@ -73,11 +73,6 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     </td>
   </tr>
 </table>
-
-
-## 😄 Seja um dos contribuidores<br>
-
-Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contribuir.
 
 ## 📝 Licença
 
