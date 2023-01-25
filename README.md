@@ -2,12 +2,12 @@
 
 ### 📑Explicação
 
-****Meu Portfólio****, projeto desenvolvido com ReactJs , utilização no Front-end biblioteca ReactJs, web responsive,
+****Meu Portfólio****, projeto desenvolvido com ReactJs , utilização no Front-end biblioteca ReactJs, web responsive, disponível para todos os tipos de tela,
 Hooks useStates, projetado e pensado em um design diferente é autêntico.
 Demostração de algumas das minha habilidades, alguns dos meus projetos.
 <br>
 <br>
-###  🚀 Projeto MeuPortfólio 
+###  🚀 Projeto 
 > Imagem projeto
 <img src="https://user-images.githubusercontent.com/97356148/207417596-a3b7f635-7f50-4d1b-b20d-a64c0f2c7c72.png" width="640px" >
 <br>
