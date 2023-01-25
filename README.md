@@ -16,6 +16,7 @@ Demostração de algumas das minha habilidades, alguns dos meus projetos.
 
 
 ###   📚Utilização
+<br>
 
  <img src="https://user-images.githubusercontent.com/97356148/205089799-826af21f-a1e4-4bbe-aadf-9286d61de8e5.png" width="29px">
 
