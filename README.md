@@ -1,34 +1,56 @@
-##  ProjetoMeuPortfólio-FullStack
+# PortfólioSoftware-FullStack
+
+⚛ Development with ReactJs  - Portfólio
 
 ### 📑Explicação
 
-****Meu Portfólio****, projeto desenvolvido com ReactJs , utilização no Front-end biblioteca ReactJs, web responsive, disponível para todos os tipos de tela,
-Hooks useStates, projetado e pensado em um design diferente é autêntico.
-Demostração de algumas das minha habilidades, alguns dos meus projetos.
+Projeto focado nas habilidades Front-end com ReactJs, desenvolvimento do meu Portfólio, 
+desenvolvimento de sistema Web, contém boas práticas de utilizar Hooks do ReactJs, renderização de componentes, demostração de algumas das minha habilidades, alguns dos meus projetos.
+
+<br>
+
+🚀 Projeto 
+<br>
+
+<img src="https://github.com/yasmimferreir/EcommercAPI-MercadoLivre/assets/97356148/3810a5ea-f585-44af-ac0d-259790812250" width="1000px">
+
 <br>
 <br>
-###  🚀 Projeto 
-> Imagem projeto
-<img src="https://user-images.githubusercontent.com/97356148/207417596-a3b7f635-7f50-4d1b-b20d-a64c0f2c7c72.png" width="640px" >
-<br>
-> Deploy da aplicação: https://portf-desenvolvedoryasmimferreir.netlify.app/
+
+### 🔍 Deploy da aplicação: https://portf-desenvolvedoryasmimferreir.netlify.app/
+
 <br>
 
 
-###   📚Utilização
-<br>
+⚔️ Utilização de ferramenta no Front-end / ***ReactJs***:
 
- <img src="https://user-images.githubusercontent.com/97356148/205089799-826af21f-a1e4-4bbe-aadf-9286d61de8e5.png" width="29px">
-
-```jsx
-$ npx create-react-app 
 ```
-
-<img src="https://user-images.githubusercontent.com/97356148/205091241-9735cbe0-17b9-4a35-8bff-0ca8e6bc0c5d.png" width="50px">
-
-```jsx
-$ yarn 
+npx create-react-app 
 ```
+<br>
+
+
+⚔️ Utilização de ferramenta no Front-end / ***React Icons***:
+
+```
+npm i react-icon
+```
+<br>
+
+⚔️ Utilização de ferramenta no Front-end / ***React Elastic carousel***:
+
+```
+npm i react-elastic-carousel
+```
+<br>
+
+⚔️ Utilização de ferramenta no Front-end Padronização/ ***Eslint***:
+
+```
+npx eslint --init
+```
+<br>
+
 <br>
 
 
@@ -58,10 +80,29 @@ Para contribuir com o projeto, siga estas etapas:
 
 Como alternativa, consulte a documentação do GitHub em [como criar uma solicitação pull](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
+## 🤝 Colaboradores
 
+Agradecemos às seguintes pessoas que contribuíram para este projeto:
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="#">
+        <img src="https://user-images.githubusercontent.com/97356148/200590856-942d44a8-f136-4320-a381-699ecbc0d6ec.JPG" width="100px;" alt="Foto Yasmim Ferreira Costa"/><br>
+        <sub>
+          <b>Yasmim Ferreira Costa</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+## 😄 Seja um dos contribuidores<br>
+
+Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contribuir.
 
 ## 📝 Licença
-
 Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
 
-[⬆ Voltar ao topo](#ProjetoMeuPortfólio-FullStack)<br>
+[⬆ Voltar ao topo](#PortfólioSoftware-FullStack)<br>
