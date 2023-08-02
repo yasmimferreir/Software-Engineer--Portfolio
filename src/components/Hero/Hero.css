@@ -49,12 +49,12 @@
     display: flex;
     flex-direction: column;
     gap: 1.5rem;
-    text-transform: capitalize;
+    text-transform: none;
     font-size: 3.5rem;
     text-overflow: inherit;
     font-style: normal;
     font-weight: 400;
-    line-height: 63px;
+    line-height: 33px;
     letter-spacing: 0.02em;
     color: #FFFFFF;
 }
@@ -65,13 +65,11 @@
     text-transform: none;
     letter-spacing: 1px;
     width: 80%;
-
 }
 
 .figures {
     display: flex;
     gap: 2rem;
-
 }
 
 .figures>div {
@@ -117,20 +115,13 @@
     position: absolute;
     right: 3rem;
     top: 2rem;
-    color: black;
 }
 
 .right-h>.btn>a {
     color: black;
-    transition: all 1s;
 }
 
 .right-h>.btn>a:hover {
-    color: white;
-    transition: all 1s;
-}
-
-.right-h>.btn:hover {
     color: white;
 }
 

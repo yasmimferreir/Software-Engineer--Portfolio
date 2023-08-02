@@ -3,7 +3,6 @@
     flex-direction: column;
     gap: 2rem;
     padding: 0 2rem;
-
 }
 
 .programs-header {
@@ -15,13 +14,11 @@
     color: white;
     text-transform: uppercase;
     font-style: italic;
-
 }
 
 .program-categories {
     display: flex;
     gap: 1rem;
-
 }
 
 .category {
@@ -32,7 +29,6 @@
     gap: 1rem;
     color: white;
     justify-content: space-between;
-
 }
 
 .category>:nth-child(1) {
@@ -68,5 +64,4 @@
     .program-categories {
         flex-direction: column;
     }
-
 }

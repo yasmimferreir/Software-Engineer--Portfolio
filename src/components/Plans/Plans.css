@@ -31,7 +31,6 @@
 .plan {
     display: flex;
     flex-direction: column;
-    background-image: url(../../assets/projeto-1.png);
     background-repeat: no-repeat;
     background-size: contain;
     color: white;
@@ -39,22 +38,6 @@
     padding: 1.5rem;
     width: 15rem;
 }
-
-.plan:nth-child(2) {
-    background-image: url(../../assets/foverer.png);
-    background-repeat: no-repeat;
-    background-size: contain;
-    transform: scale(1.1);
-}
-
-.plan:nth-child(3) {
-    background-image: url(../../assets/projeto-2.png);
-    background-repeat: no-repeat;
-    background-size: contain;
-    transform: scale(1.1);
-}
-
-
 
 .plan>svg {
     fill: #Daa520;
@@ -98,16 +81,21 @@
 
 .plans .btn a {
     color: black;
+    transition: all 1s;
 }
 
-.plans>.btn a:hover {
+.plans .btn a:hover {
     color: white;
+    transition: all 1s;
 }
 
-.plans .btn:hover {
-    color: white;
+div>.sc-gLfKCG {
+    background: #ffff;
 }
 
+div>.sc-bcHOTY {
+    background: #673ab7;
+}
 
 @media screen and (max-width: 768px) {
     .plans {

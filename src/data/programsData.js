@@ -1,85 +1,95 @@
-import { AiFillHtml5 } from "react-icons/ai";
-import { IoLogoCss3 } from "react-icons/io";
-import { SiJavascript } from "react-icons/si";
-import { FaReact } from "react-icons/fa";
-import { FaNodeJs } from "react-icons/fa";
-import { SiMysql } from "react-icons/si";
+import { SiJavascript, SiMysql, SiPostgresql } from "react-icons/si";
+import { FaReact, FaNodeJs, FaDocker } from "react-icons/fa";
 import { FiFigma } from "react-icons/fi";
+import { DiMongodb } from "react-icons/di";
 
-export const programsData = [
+const programsData = [
   {
     image: (
-      <svg
-        width="16"
-        height="15"
-        viewBox="0 0 16 15"
-      >
-        <AiFillHtml5 />
-
+      <svg width="12" height="16" viewBox="0 0 12 16">
+        <SiJavascript />
       </svg>
     ),
-    heading: "HTML",
-    details:
-      "Possuo domínio é experiências solidas em HTML",
-  },
-  {
-    image: <svg width="16" height="17" viewBox="0 0 16 17" xmlns="http://www.w3.org/2000/svg">
-      <IoLogoCss3 />
-    </svg>,
-    heading: "CSS",
-    details:
-      "Possuo domínio é experiências solidas em CSS ",
-  },
-
-  {
-    image: <svg width="12" height="16" viewBox="0 0 12 16" xmlns="http://www.w3.org/2000/svg">
-      <SiJavascript />
-    </svg>
-    ,
+    id: 1,
     heading: "JAVASCRIPT",
-    details:
-      "Possuo domínio é experiências solidas na linguagem Javascript",
+    details: "Possuo domínio é experiências solidas na linguagem Javascript",
   },
 
   {
-    image: <svg width="20" height="16" viewBox="0 0 20 16" xmlns="http://www.w3.org/2000/svg">
-      <FaReact />
-    </svg>
-    ,
+    image: (
+      <svg width="20" height="16" viewBox="0 0 20 16">
+        <FaReact />
+      </svg>
+    ),
+    id: 2,
     heading: "REACTJS",
-    details:
-      "Possuo domínio é experiências solidas com a biblioteca ReactJs",
+    details: "Possuo domínio é experiências solidas com a biblioteca ReactJs",
   },
 
-
   {
-    image: <svg width="20" height="16" viewBox="0 0 20 16" xmlns="http://www.w3.org/2000/svg">
-      <FiFigma />
-    </svg>
-    ,
+    image: (
+      <svg width="20" height="16" viewBox="0 0 20 16">
+        <FiFigma />
+      </svg>
+    ),
+    id: 3,
     heading: "FIGMA",
-    details:
-      "Possuo domínio é experiências solidas com o Figma",
+    details: "Possuo domínio é experiências solidas com o Figma",
   },
 
   {
-    image: <svg width="20" height="16" viewBox="0 0 20 16" xmlns="http://www.w3.org/2000/svg">
-      <FaNodeJs />
-    </svg>
-    ,
+    image: (
+      <svg width="20" height="16" viewBox="0 0 20 16">
+        <FaNodeJs />
+      </svg>
+    ),
+    id: 4,
     heading: "NODEJS",
-    details:
-      "Possuo domínio é experiências solidas com o NodeJs",
+    details: "Possuo domínio é experiências solidas com o NodeJs",
   },
 
   {
-    image: <svg width="20" height="16" viewBox="0 0 20 16" xmlns="http://www.w3.org/2000/svg">
-      <SiMysql />
-    </svg>
-    ,
+    image: (
+      <svg width="20" height="16" viewBox="0 0 20 16">
+        <SiMysql />
+      </svg>
+    ),
+    id: 5,
     heading: "SQL",
-    details:
-      "Possuo conhecimentos com banco de dados MySQL",
+    details: "Possuo conhecimentos com banco de dados MySQL",
+  },
+  {
+    image: (
+      <svg width="20" height="16" viewBox="0 0 20 16">
+        <SiPostgresql />
+      </svg>
+    ),
+    id: 6,
+    heading: "POSTGRES",
+    details: "Possuo conhecimentos com banco de dados Postgres",
   },
 
+  {
+    image: (
+      <svg width="20" height="16" viewBox="0 0 20 16">
+        <DiMongodb />
+      </svg>
+    ),
+    id: 7,
+    heading: "MONGODB",
+    details: "Possuo conhecimentos com banco de dados MongoDB",
+  },
+
+  {
+    image: (
+      <svg width="20" height="16" viewBox="0 0 20 16">
+        <FaDocker />
+      </svg>
+    ),
+    id: 8,
+    heading: "DOCKER",
+    details: "Possuo conhecimentos com container Docker",
+  },
 ];
+
+export default programsData;

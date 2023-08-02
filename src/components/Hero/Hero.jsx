@@ -11,39 +11,38 @@ const Hero = () => {
       <div className="blur hero-blur"></div>
       <div className="left-h">
         <Header />
-        {/* the best add */}
 
         <div className="the-best-ad">
           <span>Olá Sou Yasmim Ferreira Costa</span>
         </div>
 
-        {/* Hero Heading*/}
         <div className="hero-text">
           <div>
             <span className="stroke-text">Software Engineer</span>
             <br />
-            <span> desenvolvimento de sistemas</span>
+            <br />
+            <span> Desenvolvedora Júnior</span>
           </div>
           <div>
             <span> </span>
           </div>
           <div>
             <span>
-              Desenvolvedor(a) Full Stack Júnior, que atua há mais de 1 ano.
-              Cursando Desenvolvimento Full Stack no Devclub, domínio em
-              tecnologicas Front-end, Back-end
+              Desenvolvedor(a) Júnior, que atua há mais de 1 ano e meio, atuando
+              como Freenlancer, desenvolvendo projetos, no momento Cursando
+              Desenvolvimento Full Stack no Devclub, Cursando Engenharia de
+              Software - UNIFAVIP, domínio em tecnologicas Front-end e Back-end.
             </span>
           </div>
         </div>
 
-        {/* figures */}
         <div className="figures">
           <div>
             <span>+1</span>
             <span>Na carreira de Programação</span>
           </div>
           <div>
-            <span>+50</span>
+            <span>+30</span>
             <span>Projetos no Github</span>
           </div>
           <div>
@@ -52,14 +51,13 @@ const Hero = () => {
           </div>
         </div>
 
-        {/* hero button */}
         <div className="hero-buttons">
-          <buttons className="btn">
+          <button className="btn">
             <a href="https://linkwhats.app/5dce67"> Contato</a>
-          </buttons>
-          <buttons className="btn">
+          </button>
+          <button className="btn">
             <a href="https://github.com/yasmimferreir">Github</a>
-          </buttons>
+          </button>
         </div>
       </div>
       <div className="right-h">
@@ -68,17 +66,15 @@ const Hero = () => {
         </button>
 
         <div className="heart-rate">
-          <img src={reactImg} alt="" />
+          <img src={reactImg} alt="img-react" />
           <span>Biblioteca ReactJs</span>
           <span>Front-end </span>
         </div>
 
-        {/* HERO IMAGENS */}
-        <img src={hero_image} alt="" className="hero-image"></img>
+        <img src={hero_image} alt="img-hero" className="hero-image"></img>
 
-        {/* nodejs */}
         <div className="node">
-          <img src={Node} alt=""></img>
+          <img src={Node} alt="img-node"></img>
           <div>
             <span>Back-end NodeJs</span>
             <span>NodeJs</span>

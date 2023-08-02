@@ -25,6 +25,11 @@
     gap: 1rem;
 }
 
+p {
+    font-weight: 500;
+    font-size: 1rem;
+}
+
 .right-j {
     display: flex;
     justify-content: center;
@@ -41,14 +46,16 @@
 }
 
 .email-container>input {
+    width: 10rem;
     background-color: transparent;
     border: none;
     outline: none;
     color: var(--lightgrayz);
+
 }
 
 ::placeholder {
-    color: white;
+    color: #e6e6e6;
 }
 
 .btn-j {
