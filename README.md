@@ -17,7 +17,7 @@ desenvolvimento de sistema Web, contém boas práticas de utilizar Hooks do Reac
 <br>
 <br>
 
-### 🔍 Deploy da aplicação: https://portf-desenvolvedoryasmimferreir.netlify.app/
+### 🔍 Deploy da aplicação: 
 
 <br>
 
