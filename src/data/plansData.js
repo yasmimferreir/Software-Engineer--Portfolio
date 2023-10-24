@@ -11,7 +11,7 @@ export const plansData = [
     id: 1,
     url: "https://hvex-home.netlify.app/",
     features: [
-      "Projeto focado nas habilidades Front-end",
+      "Projeto focado na habilidade Front-end",
       "Desenvolvimento Fron-end",
       "Biblioteca ReactJs",
       "Web Responsive",
